@@ -1,0 +1,6 @@
+import Foundation
+
+enum TrackingParams: String, Codable {
+    case cwABAAAAEDkyNTgzMDI4NjMwNDk0MzEGAAMAAAA = "CwABAAAAEDkyNTgzMDI4NjMwNDk0MzEGAAMAAAA"
+    case cwABAAAAEDkyNTgzMDI4NjMwNDk0MzEKAAIAAAFuwUb5CGYAAwAAAA = "CwABAAAAEDkyNTgzMDI4NjMwNDk0MzEKAAIAAAFuwUb5CgYAAwAAAA"
+}
